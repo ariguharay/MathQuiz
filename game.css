@@ -1,0 +1,16 @@
+body{
+    background: #f8cc99;
+}
+
+div{
+    background: #95afc0;
+    padding: 10px;
+    float:none;
+    border-radius: 15px;
+}
+
+#player1_name , #player2_name{
+    display: inline-block;
+    margin-left: 20px;
+}
+
